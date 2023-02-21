@@ -1,2 +1,2 @@
 # My-restaurant
-![wireframe](wireframe.jpj)
+![wireframe](wireframe.jpg)
